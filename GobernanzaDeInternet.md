@@ -100,12 +100,11 @@ Se propone un debate con los integrantes de la clase, según los grupos de traba
 
 ##### Grupos de trabajo
 
-Zabaldano, Del Giudice
-Taglialegna, Dalmasso
-Montenegro, Geuna
-Rolandi, Suarez
-
-Mazzucco, Navazzotti
+**Coordinadores del debate:** Zabaldano, Del Giudice
+**Representantes de sociedad civíl**: Taglialegna, Dalmasso
+**Representantes comunidad técnica / academia**: Montenegro, Geuna
+**Representantes de empresa/sector privado**: Rolandi, Suarez
+**Representantes del estado**: Mazzucco, Navazzotti
 
 **IMPORTANTE**: [Cómo realizar un debate](http://limavirtual.unicordoba.edu.co/recursos_globales/guias_estudiante/Debate.pdf)
 
@@ -125,9 +124,11 @@ Ttemas más discutidos y controversiales en torno a la gobernanza de internet:
 * **Censura**.
 * **Minería de datos**.
 
-Se debate **Neutralidad en la red** más un tema que surja de la votación de la clase
+Se debate **Neutralidad en la red**  y **Privacidad, protección de datos personales en internet**.
 
-##### Neutralidad en la red
+[En la radio 2: La economía de la atención y la privacidad en Internet, Javier Pallero](https://www.youtube.com/watch?v=Jf1koeUcSXo)
+
+[¿Por qué me vigilan, si no soy nadie? | Marta Peirano | TEDxMadrid](https://www.youtube.com/watch?v=NPE7i8wuupk)
 
 *Definición*:
 
@@ -150,6 +151,8 @@ Se debate **Neutralidad en la red** más un tema que surja de la votación de la
 #### Conclusión
 
 La gobernanza es un tema que nos involucra a todos, como academia y futuros miembros de la comunidad técnica debemos asumir la responsabilidad de representar a la comunidad, de aplicar nuestros conocimientos por y para la comunidad.
+
+[En la radio 3: neutralidad de la red y convergencia, Javier Pallero](https://www.youtube.com/watch?v=1KWdHzopMcs)
 
 #### Cómo participar e involucrarse
 
@@ -241,9 +244,9 @@ Habiendo abordado los dos temas en modalidad de debate, se comenta el acuerdo o 
 * Tasa cero o zero rating.
 
 
-##### Tema a elegir
+##### Privacidad
 
-Se determinarán las premisas luego de la votación.
+* Protección de datos personales en internet.
 
 ## Cronograma de las clases
 
